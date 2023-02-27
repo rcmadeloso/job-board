@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body>
+## STATS
 
-</body>
-</html>
+| Title  | Stat |
+| ------------- | ------------- |
+| Date Started  | Feb 27, 2023  |
+| Total Coding time  | 10 minutes  |
+| No. Unique Pages  | 12  |
